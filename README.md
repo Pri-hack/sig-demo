@@ -1,2 +1,2 @@
 # sig-demo
-This is a demo for the git and github account.
+This is a demo for the git and github account
